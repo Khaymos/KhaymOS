@@ -8,4 +8,4 @@ A linux distro built from scratch
 Still in progress since it's only the couple of us building it.
 
 ## Building:
-Built by jhalfs
+Built by KBuild (KhaymOS Builder)
