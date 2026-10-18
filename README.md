@@ -1,6 +1,5 @@
-![KhaymOS Linux logo](assets/khaymos-logo.png)
 <p align="center">
-  <img src="assets/Khaymos.png" alt="KhaymOS Linux logo" width="600">
+  <img src="Khaymos.png" alt="KhaymOS Linux logo" width="600">
 </p>
 
 # Khaymos Linux
