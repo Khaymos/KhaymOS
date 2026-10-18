@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Khaymos.png" alt="KhaymOS Linux logo" width="600">
+  <img src="Khaymos.png" alt="KhaymOS Linux logo" width="700">
 </p>
 
 # Khaymos Linux
