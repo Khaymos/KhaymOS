@@ -11,3 +11,6 @@ Still in progress since it's only the couple of us building it.
 
 ## Building:
 Built by [KBuild](https://github.com/Khaymos/KBuild) (KhaymOS Builder)
+
+## Package Manager:
+[knpm](https://github.com/Khaymos/knpm) (Khaymos's Nexus Package Manager)
