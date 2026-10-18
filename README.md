@@ -1,4 +1,6 @@
-<p align="center"><img src="Khaymos.png" width="200"></p>
+<p align="center">
+  <img src="assets/Khaymos.png" alt="KhaymOS Linux logo" width="600">
+</p>
 
 # Khaymos Linux
 
