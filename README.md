@@ -8,4 +8,4 @@ A linux distro built from scratch
 Still in progress since it's only the couple of us building it.
 
 ## Building:
-Built by KBuild (KhaymOS Builder)[https://github.com/Khaymos/KBuild]
+Built by [KBuild](https://github.com/Khaymos/KBuild) (KhaymOS Builder)
