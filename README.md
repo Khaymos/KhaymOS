@@ -14,4 +14,4 @@ Built by [KBuild](https://github.com/Khaymos/KBuild) (KhaymOS Builder)
 
 ## Package Manager:
 [knpm](https://github.com/Khaymos/knpm) (Khayil's Nexus Package Manager)
-* Built in rust.
+(Built in Rust.)
